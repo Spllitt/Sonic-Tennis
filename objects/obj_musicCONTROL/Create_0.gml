@@ -1,0 +1,1 @@
+audio_play_sound(msc_boringassmusic, 10, true)

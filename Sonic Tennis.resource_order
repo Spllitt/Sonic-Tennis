@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"Global scripts","order":11,"path":"folders/Global scripts.yy",},
+    {"name":"Objects","order":3,"path":"folders/Objects.yy",},
+    {"name":"Paths","order":6,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
+    {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
+    {"name":"Sounds","order":4,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":5,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_ball","order":2,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_ground","order":4,"path":"objects/obj_ground/obj_ground.yy",},
+    {"name":"obj_musicCONTROL","order":5,"path":"objects/obj_musicCONTROL/obj_musicCONTROL.yy",},
+    {"name":"obj_NETtennis","order":1,"path":"objects/obj_NETtennis/obj_NETtennis.yy",},
+    {"name":"obj_opp","order":3,"path":"objects/obj_opp/obj_opp.yy",},
+    {"name":"spr_ball","order":3,"path":"sprites/spr_ball/spr_ball.yy",},
+    {"name":"spr_BLAZE","order":4,"path":"sprites/spr_BLAZE/spr_BLAZE.yy",},
+    {"name":"spr_ground","order":5,"path":"sprites/spr_ground/spr_ground.yy",},
+    {"name":"spr_shitassbackground","order":1,"path":"sprites/spr_shitassbackground/spr_shitassbackground.yy",},
+    {"name":"spr_tennisNET","order":2,"path":"sprites/spr_tennisNET/spr_tennisNET.yy",},
+  ],
+}
