@@ -2,6 +2,9 @@
 
 This project was a personal challenge. I needed to create a game in one week, with the sole goal being that it should actually work. However, due to some personal issues, I had to complete it in just 3 days. It’s obviously not perfect and has several flaws, but it works.
 
+## How to play
+Just download the Sonic "Tennis.exe" file, so you don't have to open the whole project just to test it.
+
 ## Controls
 
 left and right arrows: movement
